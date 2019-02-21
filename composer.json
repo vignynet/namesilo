@@ -2,11 +2,11 @@
     "name": "vignynet/namesilo",
     "description": "Namesilo Api",
     "type": "project",
-    "license": "Apache License 2.0",
+    "license": "Apache-2.0",
     "authors": [
         {
             "name": "vigny",
-            "email": "https://viny.net"
+            "email": "vignynet@gmail.com"
         }
     ],
     "minimum-stability": "dev",
