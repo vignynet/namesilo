@@ -1,0 +1,14 @@
+{
+    "name": "vignynet/namesilo",
+    "description": "Namesilo Api",
+    "type": "project",
+    "license": "WIT",
+    "authors": [
+        {
+            "name": "vigny",
+            "email": "https://viny.net"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
