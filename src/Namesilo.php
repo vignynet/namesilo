@@ -3,6 +3,7 @@
 namespace Vigny;
 class Namesilo{
     #### by default use the sandbox in development
+    ###  Please add IP whitelist in formal environment
     public $api_url = 'https://www.namesilo.com/api/';
     public $api_key;
     public $debug = false;
