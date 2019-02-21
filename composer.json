@@ -2,7 +2,7 @@
     "name": "vignynet/namesilo",
     "description": "Namesilo Api",
     "type": "project",
-    "license": "WIT",
+    "license": "Apache License 2.0",
     "authors": [
         {
             "name": "vigny",

@@ -1,7 +1,6 @@
 <?php
 
 namespace Vigny;
-
 class Namesilo{
     #### by default use the sandbox in development
     public $api_url = 'https://www.namesilo.com/api/';
